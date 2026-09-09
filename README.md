@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours en français sur les SNARK et les rollups](docs/fr/) relie R1CS, signatures, arbres de Merkle et transitions d’état au code du tutoriel arkworks.
+
 <h1 align="center">Introduction to SNARK Development with `arkworks`</h1>
 
 In this tutorial, we will learn how to write applications for use with state-of-the-art zkSNARKs using the [`arkworks`](https://arkworks.rs) ecosystem of SNARK libraries.
